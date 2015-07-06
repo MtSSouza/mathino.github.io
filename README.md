@@ -1,2 +1,0 @@
-# mathino.github.io
-Website
