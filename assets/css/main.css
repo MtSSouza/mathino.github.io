@@ -1639,7 +1639,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.55);
+		color: rgba(255, 255, 255, 0.70);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -3253,15 +3253,15 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #04221c;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #304542;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #4abdac;
 		}
 
 		.wrapper.style2-alt {
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #5C857F;
 		}
 
 		.wrapper.style3-alt {
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #0d6756;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3771,14 +3771,14 @@
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #0a5547;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #0c6655, #43bba5);
+				background-image: -webkit-linear-gradient(to right, #0c6655, #43bba5);
+				background-image: -ms-linear-gradient(to right, #0c6655, #43bba5);
+				background-image: linear-gradient(to right, #0c6655, #43bba5);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
