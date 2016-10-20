@@ -2059,8 +2059,6 @@
 
 		.features section {
 			padding: 5em 3em 1em 7em ;
-			heigth: 50%;
-			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
 		}
 
@@ -2085,9 +2083,8 @@
 				-webkit-transform: scale(1);
 				-ms-transform: scale(1);
 				transform: scale(1);
-				position: absolute;
-				left: 3em;
-				top: 3em;
+				position: fixed;
+				left: 8em;
 				opacity: 1;
 			}
 
@@ -2694,6 +2691,7 @@
 
 				ul.icons li > a, ul.icons li > span {
 					border: 0;
+                    padding-right: 0.5em;
 					text-decoration: none;
 				}
 
