@@ -2582,6 +2582,11 @@
 					color: #953d75;
 				}
 
+/* ImagePerfil */
+	.imagePerfil{  
+	margin-bottom:100px;
+	border-radius:100%;
+	}
 /* Image */
 
 	.image {
